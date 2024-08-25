@@ -23,5 +23,6 @@ The game has the following features:
 2. Open a command prompt or terminal and navigate to the project directory.
 
 ## Usage
+1. Install the pre requisites by the command `pip install colorama termcolor`
 1. Launch the application by running `python game.py`.
 2. Follow the on-screen instructions to play the game.
